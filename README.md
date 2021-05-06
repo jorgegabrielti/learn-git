@@ -1,6 +1,6 @@
 # Lear Git
 
-In this repo, i explain how use the git in commman line.
+In this repo, i explain how use the git in command line.
 
 
 ## Init a repository
