@@ -1,4 +1,4 @@
-## Git states
+# Git states
 Git handles files in different states:
 - Untracked;
 - Unmodified;
