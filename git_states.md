@@ -46,6 +46,7 @@ The README.me file was identified as Untracked, that is, unmarked. The means tha
 git add README.md
 ```
 The files are now marked and ready for a commit.
+
 ![git add](img/git%20add.png)
 
 A warning message is displayed regarding the line terminations. This is because the configuration environment is Windows, which has a line-terminating character that is distinct from other operating systems. This character will be changed in the git project, but it remains the same in the working directory.
